@@ -1387,6 +1387,22 @@ end TCL_Generic;
     <comp lib="1" loc="(200,150)" name="XNOR Gate">
       <a name="width" val="32"/>
     </comp>
+    <comp lib="8" loc="(236,125)" name="Text">
+      <a name="text" val="If A==B, A XNOR B = 1"/>
+      <a name="font" val="SansSerif plain 12"/>
+    </comp>
+    <comp lib="8" loc="(948,160)" name="Text">
+      <a name="text" val="C = 0 if the OpCode is not Compare Op"/>
+      <a name="font" val="SansSerif plain 12"/>
+    </comp>
+    <comp lib="8" loc="(276,252)" name="Text">
+      <a name="text" val="If A&gt;0, A 31th bit will be 0"/>
+      <a name="font" val="SansSerif plain 12"/>
+    </comp>
+    <comp lib="8" loc="(403,350)" name="Text">
+      <a name="text" val="If A&gt;0, at least 1 bit (0-30th) will be 1"/>
+      <a name="font" val="SansSerif plain 12"/>
+    </comp>
   </circuit>
   <circuit name="AddSubOp">
     <a name="circuit" val="AddSubOp"/>
