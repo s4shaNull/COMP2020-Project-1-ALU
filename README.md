@@ -6,6 +6,6 @@ Name: Nguyen Dinh Cuong
 
 Email: 20cuong.nd@vinuni.edu.vn
 
-Critical Path:
+Critical Path: 69 gates from an adder operation
 
-Gate Count:
+Gate Count: 1449 gates
