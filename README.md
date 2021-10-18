@@ -2,4 +2,5 @@
 Nguyen Dinh Cuong
 
 Critical Path:
+
 Gate Count:
