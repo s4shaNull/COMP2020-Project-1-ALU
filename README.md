@@ -8,4 +8,4 @@ Email: 20cuong.nd@vinuni.edu.vn
 
 Critical Path: 69 gates from an adder operation
 
-Gate Count: 1449 gates
+Gate Count: 1448 gates
